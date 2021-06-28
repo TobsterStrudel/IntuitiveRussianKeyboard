@@ -155,6 +155,7 @@ Send, ж
 return
 "::
 Send, Ж
+return
 Z::
 Send, з
 return
