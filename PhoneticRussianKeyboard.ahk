@@ -1,11 +1,11 @@
 ﻿/*there is probably some more efficient way to do this, but whatever.
-This program simply mirrors the functionality of https://russian.typeit.org/.
-They have their own software, but it is subscription based and I didn't want to pay, so here I am.
-1/8/2020
-*/
+  *This program simply mirrors the functionality of https://russian.typeit.org/.
+  *They have their own software, but it is subscription based and I didn't want to pay, so here I am.
+  *1/8/2020
+  */
 
 
-Scrolllock::
+Scrolllock::// set this key to your desired toggle key. https://www.autohotkey.com/docs/Hotkeys.htm
 Suspend
 return
 
